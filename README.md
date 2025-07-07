@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection 🚨
+# Fraud Detection 🚨
 
 This project is a machine learning solution for detecting fraudulent credit card transactions using sklearn LogisticRegression. It is designed for internship and learning purposes to showcase model training, evaluation, and basic deployment preparation.
 
